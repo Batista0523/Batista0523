@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Batista0523
-- 👀 I’m interested in ... Become a Software Develope
-- 🌱 I’m currently learning ...JavaScript
+- 👀 I’m  a full stack Software Developer.
+- 🌱 I’m currently learning ...JavaScript,Backend
 - 💞️ I’m looking to collaborate on ...any code project
-- 📫 How to reach me ...Guthub me
+- 📫 How to reach me ...Guthub me 
 
 <!---
 Batista0523/Batista0523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
