@@ -19,6 +19,15 @@ I'm a full-stack Software Developer.
 - HTML
 - CSS
 
+## Dynamic Sections
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Batista0523&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batista0523&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Batista0523&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Batista0523&theme=radical)
 ### Backend Development
 - Node.js
 - SQL
@@ -30,17 +39,7 @@ I'm a full-stack Software Developer.
 <!-- STATS:START -->
 <!-- STATS:END -->
 
-## Dynamic Sections
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Batista0523&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batista0523&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Batista0523&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Batista0523&theme=radical)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Batista0523&theme=react-dark)
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
