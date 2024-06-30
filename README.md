@@ -18,7 +18,7 @@ I’m a full stack Software Developer passionate about creating dynamic and resp
 ### 🌱 What I'm Learning
 - Advanced React Patterns
 - TypeScript
-- Docker & Kubernetes
+- Phyton
 
 ### 👀 I’m Looking to Collaborate On
 Any code project! I’m open to working on a wide range of projects and excited to contribute to the coding community.
