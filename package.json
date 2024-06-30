@@ -1,0 +1,12 @@
+{
+  "name": "batista0523",
+  "version": "1.0.0",
+  "description": "## About Me I'm a full-stack Software Developer.",
+  "main": "update-readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

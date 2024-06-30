@@ -30,7 +30,7 @@ async function getGitHubStats(username) {
 }
 
 async function updateReadme() {
-  const username = 'Batista0523';  
+  const username = 'Batista0523'; 
   const stats = await getGitHubStats(username);
 
   const readmePath = './README.md';
