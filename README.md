@@ -8,7 +8,7 @@ I'm a full-stack Software Developer.
 "I’m looking to collaborate on ... any code project. Open to working on a wide range of projects and excited to contribute to the coding community."
 
 📫 How to reach me:
-- GitHub: [GitHub Profile](https://github.com/Batista0523)
+- Portfolio: [Elisaul Batista](https://elisaulbatista.net/)
 - LinkedIn: [Elisaul Batista](https://www.linkedin.com/in/elisaul-batista/)
 - Email: [elisaulbatista@pursuit.org](mailto:elisaulbatista@pursuit.org)
 
