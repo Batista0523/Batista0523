@@ -12,7 +12,7 @@ Skills & Technologies
 Frontend Development
 JavaScript
 React.js
-HTML
+HTML..
 CSS
 Backend Development
 Node.js
