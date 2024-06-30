@@ -1,4 +1,4 @@
-"Full-stack Software Developer with a passion for JavaScript, React.js, HTML, CSS, and Backend development. Experienced in working with databases including SQL, PostgreSQL, and SQL Server. Committed to building robust web applications and always eager to collaborate on exciting coding projects."
+"Full-stack updated Software Developer with a passion for JavaScript, React.js, HTML, CSS, and Backend development. Experienced in working with databases including SQL, PostgreSQL, and SQL Server. Committed to building robust web applications and always eager to collaborate on exciting coding projects."
 
 🔗 I’m looking to collaborate on:
 I'm open to working on a wide range of projects and excited to contribute to the coding community.
