@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Batista0523
+# 👋 Hi, I’m Elisaul Batista
 
 ### 👀 I’m a full stack Software Developer.
 
@@ -19,7 +19,7 @@ I’m looking to collaborate on any code project. Open to working on a wide rang
 - HTML
 - CSS
   
-  
+
 ## 📊 GitHub Stats
 ![Batista0523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batista0523&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batista0523&layout=compact&theme=radical)
@@ -39,4 +39,4 @@ I’m looking to collaborate on any code project. Open to working on a wide rang
 
 ## 💻 Recent Projects
 - **Project 1**: CourtIQ - [https://courtiq.netlify.app/](https://courtiq.netlify.app/)
-- **Project 2**: Batistack - [https://batistack.com/](https://batistack.com/)
+
