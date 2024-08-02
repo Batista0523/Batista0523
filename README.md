@@ -18,6 +18,7 @@ I’m eager to dive into exciting coding projects, from small innovations to lar
 
 Feel free to reach out to discuss potential collaborations!
 
+
 📫 How to reach me:
 - **Portfolio**: [Elisaul Batista](https://elisaulbatista.net/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisaul-batista/)
