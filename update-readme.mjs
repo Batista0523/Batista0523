@@ -1,5 +1,5 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
+import fs from 'fs';
+import fetch from 'node-fetch';
 
 async function getGitHubStats(username) {
   const response = await fetch(`https://api.github.com/users/${username}/repos`);
@@ -30,7 +30,7 @@ async function getGitHubStats(username) {
 }
 
 async function updateReadme() {
-  const username = 'Batista0523'; 
+  const username = 'Batista0523';
   const stats = await getGitHubStats(username);
 
   const readmePath = './README.md';
@@ -41,5 +41,6 @@ async function updateReadme() {
 
   fs.writeFileSync(readmePath, newReadmeContent);
 }
+
 
 updateReadme();
