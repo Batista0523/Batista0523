@@ -45,9 +45,6 @@ Feel free to reach out to discuss potential collaborations!
 - Restful APIs
 
 
-## 🚀 Latest Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 💻 Recent Projects
 - **Project 1**: CourtIQ - [https://courtiq.netlify.app/](https://courtiq.netlify.app/)
